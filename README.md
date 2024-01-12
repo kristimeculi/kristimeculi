@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kristi Meculi
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently working/learning Flutter
+- 🌱 I’m currently working in Flutter and Xamarin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kristimeculi@gmail.com
 
